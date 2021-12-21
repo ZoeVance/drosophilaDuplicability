@@ -32,7 +32,7 @@ This repository contains the required code and data to produce results presented
 **drosophilaDatabase_diptera_final.sql:** SQL file to generate a database containing all genes which were considered singletons for input into the data filtering pipeline as well as inferred orthogroups and other relevant information
 _Tables_:
 * sequenceTab:
-Table including sequences for each gene for easier lookup
+Table including sequences for each gene for easier lookup - not present in this version of the database due to file size limits, but can be created using the sequence files and code in Analysis_code.ipynb
   * **id:** gene id as given in sequence file headers in dipteraTranslations_processed/
   * **seq:** associated sequence
 * groups_*:
@@ -77,6 +77,14 @@ Final dataset for analysis, includes filtered singleton set with trees and vario
 
 **dipteraTranslations_processed/:** .fasta files containing translated CDS sequences for each species, longest sequence for each gene only. Headers are formatted: gene|protein|species
 
+===========================================================================================================================
+## Homology tool output
+
+Detailed explanations of these files can be found in the documentation for each tool
+
+**Orthofinder_results:** Output files for Orthofinder run with default parameters
+
+**sonicParaOutput:** Output files for SonicParanoid, parameters can be found in sonicParaOutput/last_run_info.txt 
 
 =========================================================================================================
 ## Figures
