@@ -1,0 +1,33 @@
+SonicParanoid 1.3.5
+Date:	Wed Mar 31 14:04:50 2021
+Run ID:	sonic_3132114450_sensitive_4cpus_ml05
+Run directory:	/Users/zoevance/drosophilaFinal/sonicParaOutput/runs/sonic_3132114450_sensitive_4cpus_ml05
+Input directory:	/Users/zoevance/drosophilaFinal/dipteraTranslations_processed/
+Input proteomes:	37
+Output directory:	/Users/zoevance/drosophilaFinal/sonicParaOutput
+MMseqs sensitivity:	6.0
+Python version:	3.8.8 (default, Feb 24 2021, 13:46:16) 
+[Clang 10.0.0 ]
+Python executables:	/Applications/anaconda3/envs/sonicparanoid/bin/python
+SonicParanoid installation:	/Applications/anaconda3/envs/sonicparanoid/lib/python3.8/site-packages/sonicparanoid
+GCC version:	11.0.3
+GCC distribution:	11.0.3
+MMseqs DB directory:	/Users/zoevance/drosophilaFinal/sonicParaOutput/mmseqs2_databases/
+Skip MMseqs DB indexing:	False
+Alignment directory:	/Users/zoevance/drosophilaFinal/sonicParaOutput/alignments/
+Pairwise tables DB directory:	/Users/zoevance/drosophilaFinal/sonicParaOutput/orthologs_db/
+Directory with pairwise orthologs:	/Users/zoevance/drosophilaFinal/sonicParaOutput/runs/sonic_3132114450_sensitive_4cpus_ml05/pairwise_orthologs/
+Directory with ortholog groups:	/Users/zoevance/drosophilaFinal/sonicParaOutput/runs/sonic_3132114450_sensitive_4cpus_ml05/ortholog_groups/
+Threads:	4
+Memory per threads (Gigabytes):	8.0
+Minimum memory per threads (Gigabytes):	1.75
+Update run:	False
+MMseqs prefilter matrix:	vtml80
+Complete alignments:	False
+Max length difference for in-paralogs:	0.5
+Overwrite pair-wise ortholog tables:	False
+Complete overwrite:	False
+Skip creation of ortholog groups:	False
+Compress alignments:	True
+Compression level:	5
+MCL inflation:	1.5
