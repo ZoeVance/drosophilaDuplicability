@@ -1,6 +1,7 @@
 # Data and code for analysis for "Evidence from Drosophila supports higher duplicability of faster evolving genes."
 
-This repository contains the required code and data to produce results presented in (REF). Additional software used:
+This repository contains the required code and data to produce results presented in [Vance et al. 2022](https://doi.org/10.1093/gbe/evac003). 
+Additional software used:
 * [BLAST+ (v2.11)](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
 * [MUSCLE (v3.8)](https://drive5.com/muscle/downloads_v3.htm)
 * [IQ-TREE (v1.6.12)](http://www.iqtree.org/)
@@ -88,7 +89,7 @@ Detailed explanations of these files can be found in the documentation for each 
 
 =========================================================================================================
 ## Figures
-**Figures/:** .png versions of figures included in (REF)
+**Figures/:** .png versions of figures included in [Vance et al. 2022](https://doi.org/10.1093/gbe/evac003)
 
 =========================================================================================================
 ## Possible impact of missed paralogs
